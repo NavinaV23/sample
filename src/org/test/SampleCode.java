@@ -9,6 +9,11 @@ public static void main(String[] args) {
 	
 	System.out.println("jupiter");
 	System.out.println("saturn");
+	
+	System.out.println("neptune");
+	System.out.println(234);
+
+	
 }
 	
 	
