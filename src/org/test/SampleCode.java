@@ -7,6 +7,8 @@ public static void main(String[] args) {
 	System.out.println("mercury");
 	System.out.println("venus");
 	
+	System.out.println("neptune");
+	System.out.println(234);
 }
 	
 	
